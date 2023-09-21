@@ -7,5 +7,6 @@
     "date": "2023-08-25",
     "sha512sum": "1f327ab83b832af3f6183f62b141c5b79329d12263472c81f4ecc9c963cd065fe2ecbc8e2e58ccbe04675a55d37bc58332b5c4dfe19e4db3b45bb01e2bb845fb",
     "version": "0.0.8",
-    "url": "https://raw.githubusercontent.com/nzyz/toa/main/toa-extended-1.0.jar"
+    "url": "https://raw.githubusercontent.com/nzyz/toa/main/toa-extended-1.0.jar",
+    "requires": "^1.0.0"
   }]
